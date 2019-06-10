@@ -7,14 +7,11 @@ javascript
 node.js
 Inquirer
 
-•	Fork into main repo
-•	Go inside your own repo on Git then gitclone
-•	Go inside the repo on your machine.
-
 
  Running this application will:
  
 List a set of menu options:
+
 View Products for Sale
 View Low Inventory
 Add to Inventory
