@@ -2,7 +2,7 @@
 
 Git link: https://github.com/alisarkeshik/AmazonManager
 
-Open the file "Amazon-Manager-Video.gif" to see the program run.
+To see the program run open the file: "Amazon-Manager-Video.gif"
 
 Technology used
 
