@@ -1,10 +1,10 @@
 # AmazonManager
 
-Technology Used:
+Technology used
 
-MySQL,
-Javascript,
-Node.js,
+MySQL
+javascript
+node.js
 Inquirer
 
  Running this application will:
