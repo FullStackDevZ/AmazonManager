@@ -2,9 +2,9 @@
 
 Technology Used:
 
-MySQL
-javascript
-node.js
+MySQL,
+Javascript,
+Node.js,
 Inquirer
 
  Running this application will:
