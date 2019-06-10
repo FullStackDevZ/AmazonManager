@@ -2,6 +2,8 @@
 
 Git link: https://github.com/alisarkeshik/AmazonManager
 
+Open the file "Amazon-Manager-Video.gif" to see the program run.
+
 Technology used
 
 MySQL, Javascript, Node.js, Inquirer
