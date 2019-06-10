@@ -1,6 +1,6 @@
 # AmazonManager
 
-Git link: https://github.com/alisarkeshik/AmazonManager
+Git link to view code: https://github.com/alisarkeshik/AmazonManager
 
 To see the program run open the file: "Amazon-Manager-Video.gif"
 
